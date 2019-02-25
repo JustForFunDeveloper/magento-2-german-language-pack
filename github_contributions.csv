@@ -36,3 +36,5 @@
 "Item in Cart","Artikel im Warenkorb",module,Magento_Checkout
 "Items in Cart","Artikel im Warenkorb",module,Magento_Checkout
 "Your order number is: %1.","Ihre Bestellnummer lautet: %1.",module,Magento_InstantPurchase
+Cancel,Abbrechen,module,Magento_Widget
+"My Account","Mein Konto",theme,frontend/Magento/luma
